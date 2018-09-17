@@ -3,7 +3,6 @@ package com.coolh.entity;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.criteria.CriteriaBuilder;
 
 @Entity
 public class Seller {
